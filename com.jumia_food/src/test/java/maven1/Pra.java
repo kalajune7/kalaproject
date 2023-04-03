@@ -9,4 +9,12 @@ public void jumia()
 	System.out.println("jumia");
 	
 }
+@Test
+public void jumia2()
+{
+	System.out.println("jumia");
+	
+	
+	
+}
 }
