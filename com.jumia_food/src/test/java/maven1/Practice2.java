@@ -11,4 +11,11 @@ public class Practice2 {
 		
 		
 	}
+	@Test
+	public void kalavathi()
+	{
+		System.out.println("--new project---");
+		
+		
+	}
 }
