@@ -8,6 +8,7 @@ public class Resto
 	public void dishes()
 	{
 		System.out.println("Chicken Biriyani");
+		System.out.println("Chicken Biriyani--2");
 		
 	}
 
