@@ -13,8 +13,14 @@ public void jumia()
 public void jumia2()
 {
 	System.out.println("jumia");
+	System.out.println("jumia 222");
 	
-	
+}
+
+@Test
+public void jumia3()
+{
+	System.out.println("Chicken Curry");
 	
 }
 }
