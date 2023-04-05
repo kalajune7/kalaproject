@@ -2,7 +2,7 @@ package maven1;
 
 import org.testng.annotations.Test;
 
-public class Practice2 {
+public class Practice2Test {
 
 	@Test
 	public void kala()
