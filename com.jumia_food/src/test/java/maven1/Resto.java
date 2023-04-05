@@ -5,10 +5,8 @@ import org.testng.annotations.Test;
 public class Resto 
 {
 	@Test
-	public void dishes()
+	public void resto()
 	{
-		System.out.println("Chicken Biriyani");
-		
+		System.out.println("Full Conflict");
 	}
-
 }
