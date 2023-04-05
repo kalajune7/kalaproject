@@ -6,7 +6,7 @@ public class Pra {
 @Test
 public void jumia()
 {
-	System.out.println("jumia");
+	System.out.println("jumiafood56");
 	
 }
 @Test
