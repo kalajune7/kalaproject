@@ -13,6 +13,7 @@ public void jumia()
 public void jumia2()
 {
 	System.out.println("jumia");
+	System.out.println("jumia 222");
 	
 }
 
